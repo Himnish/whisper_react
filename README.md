@@ -1,4 +1,4 @@
-#Usage
+# Usage
 
 ![User Interface](./docs/screenshot1.png "User Interface")
 
@@ -17,7 +17,7 @@ If the audio data does not contain any text data, it will be disregarded.
 The transcription data will be saved in the localStorage for easy retrieval.
 You can verify the accuracy of the transcription/translation by playing the saved audio data associated with the transcription/translation.
 
-![Audio Play](./docs/screenshot3.png "Audio Play")
+![Demo](demo.mp4 "Demo")
 
 It is possible to delete the transcription item. Hover on a transcription to show the delete button and press the icon to show a dialog box to confirm.
 
