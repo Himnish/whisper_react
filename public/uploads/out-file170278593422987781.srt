@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:09,000
+As a test, I am trying to check if whisper is giving me a transcript and I do not know how long it takes.
+

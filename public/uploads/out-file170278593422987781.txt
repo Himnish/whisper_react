@@ -1,0 +1,1 @@
+As a test, I am trying to check if whisper is giving me a transcript and I do not know how long it takes.

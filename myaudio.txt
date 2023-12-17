@@ -1,0 +1,7 @@
+The motion page is designed to display the user's face based on the image they have taken in the previous page
+and helps them decide whether they want to continue building a playlist from the mode generator
+or if they want to retake their photograph.
+The interaction of this page with other components is into the form of buttons
+which will either take the user back to the camera page if they want to retake the photograph
+or it moves them onto the playlist generation page where the playlist is custom generated based on the mode.
+The languages and libraries that we use to build this page were mainly dots and flutter.
